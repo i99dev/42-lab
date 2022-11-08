@@ -26,4 +26,6 @@ Thanks for [opsec-infosec](https://github.com/opsec-infosec) for this amazing to
 
 ✅ Linux (debain based). 
 
+✅ WSL (Windows Subsystem for Linux)(debain based).
+
 🚧 Mac OS

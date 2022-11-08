@@ -21,3 +21,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Docker version
 Thanks for [opsec-infosec](https://github.com/opsec-infosec) for this amazing tool.To download it [42-Devcontainer](https://github.com/opsec-infosec/42-Devcontainer).
+
+# Test
+
+✅ Linux (debain based). 
+
+🚧 Mac OS

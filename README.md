@@ -8,13 +8,16 @@
 clone this repository and run `chmod +x./42_lab.sh` in your terminal.
 
 # Mac OS
-script will install brew, brew cask, brew bundle, and all packages that you need to start your project. (🚧 in progress , not test yet)
-
+script will install brew, brew cask, brew bundle, and all packages that you need to start your project. 
+```bash
+./42_lab.sh
+```
+> if get any error please open issue 
 # Linux
 script will install all packages that you need to start your project.
-
-## Usage 
-run `sudo ./42_lab.sh` in your terminal and follow the instructions.
+```bash
+sudo ./42_lab.sh
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -28,4 +31,4 @@ Thanks for [opsec-infosec](https://github.com/opsec-infosec) for this amazing to
 
 ✅ WSL (Windows Subsystem for Linux)(debain based).
 
-🚧 Mac OS
+✅ Mac OS 
